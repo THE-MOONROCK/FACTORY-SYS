@@ -1,2 +1,2 @@
-# FACTORY-SYS
+# factory-searching
 factory searching system
